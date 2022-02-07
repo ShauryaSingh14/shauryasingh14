@@ -1,4 +1,4 @@
-Hey there,
+### Hi👋, I'm Shaurya Singh
 I'm a sophomore at Thapar Institute of Engineering and Technology. I am a budding Web Developer from India. Besides programming, I like travelling and playing badminton.
 
 🔭 I’m currently working on Front Web Development
