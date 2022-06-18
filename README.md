@@ -5,7 +5,7 @@ I'm a sophomore at Thapar Institute of Engineering and Technology. I am a Front-
 
 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms.
 
-👯 I’m looking to collaborate on Web Development, Machine Learning Projects
+👯 I’m looking to collaborate on Machine Learning, Web Development Projects
 
 💬 Ask me about C/C++, Python, HTML, CSS, JavaScript, PL/SQL.
 
