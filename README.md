@@ -1,5 +1,5 @@
 ###                                                          Hi👋, I'm Shaurya Singh
-I'm a sophomore at Thapar Institute of Engineering and Technology. I am a Front-end Developer from India.
+I'm a sophomore at Thapar Institute of Engineering and Technology.
 
 🔭 I’m currently working as Front Web Development
 
