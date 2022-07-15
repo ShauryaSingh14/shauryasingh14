@@ -9,4 +9,4 @@ I'm a sophomore at Thapar Institute of Engineering and Technology.
 
 💬 Ask me about C/C++, Python, HTML, CSS, JavaScript, PL/SQL.
 
-📫 How to reach me shauryasingh1402@gmail.com
+📫 How to reach me shauryasingh9873@gmail.com
