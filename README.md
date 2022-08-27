@@ -9,8 +9,7 @@ Hi, I'm Shaurya, **Computer Science 🎓** at **Thapar Institute of Engineering 
 
 <img width="310" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align=right>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-- 🔭 I’m currently working as Front Web Development
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working as Front Web Development
 - 🌱 I’m currently learning Machine Learning, Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Machine Learning, Web Development Projects
 - 🤔 I’m looking for help with Backend
