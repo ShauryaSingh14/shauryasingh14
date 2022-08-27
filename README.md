@@ -3,7 +3,7 @@
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shaurya+Singh....;Nice+to+meet+you!&height=80&width=600&size=40&center=true)](https://git.io/typing-svg)
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Hi, I'm Avnoor, **Computer Science 🎓** at **Thapar Institute of Engineering and Technology, Patiala** and an **Aspiring Software Engineer**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+Hi, I'm Shaurya, **Computer Science 🎓** at **Thapar Institute of Engineering and Technology, Patiala** and an **Aspiring Software Engineer**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
