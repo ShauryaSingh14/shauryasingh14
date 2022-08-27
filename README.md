@@ -2,15 +2,6 @@
 
 
   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shaurya+Singh....;Nice+to+meet+you!&height=80&width=600&size=40&center=true)](https://git.io/typing-svg)
-
-
-
-### 📬 Reach me out at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ShauryaSingh14/)](https://github.com/avnoor-488/)
-[![Linkedin Badge](https://www.linkedin.com/in/shaurya-singh-14s/)
-[![Gmail Badge](mailto:shauryasingh9873@gmail.com)
-[![Instagram Badge](https://www.instagram.com/shxuryasinghania/)
-
 ## A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 Hi, I'm Avnoor, **Computer Science 🎓** at **Thapar Institute of Engineering and Technology, Patiala** and an **Aspiring Software Engineer**. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
