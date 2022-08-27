@@ -6,7 +6,7 @@
 
 
 ### 📬 Reach me out at
-[![Github Badge](https://github.com/ShauryaSingh14/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ShauryaSingh14/)](https://github.com/avnoor-488/)
 [![Linkedin Badge](https://www.linkedin.com/in/shaurya-singh-14s/)
 [![Gmail Badge](mailto:shauryasingh9873@gmail.com)
 [![Instagram Badge](https://www.instagram.com/shxuryasinghania/)
