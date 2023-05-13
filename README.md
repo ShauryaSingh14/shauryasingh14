@@ -18,7 +18,7 @@ Hi, I'm Shaurya, **Computer Science 🎓** at **Thapar Institute of Engineering 
 <p align="left">
 <a href="https://linkedin.com/in/neeraj-j-manurkar-64372b212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-j-manurkar-64372b212" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/neeraj_jm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeraj_jm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/neeraj_jm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neeraj_jm" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shauryasingh1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neeraj_jm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
