@@ -9,15 +9,13 @@ Hi, I'm Shaurya, **Computer Science 🎓** at **Thapar Institute of Engineering 
 
 <img width="310" height="350" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working as Front Web Development
 - 🌱 I’m currently learning **Machine Learning,React,FastAPI**
 - 💬 Ask me about **NodeJs,Mongodb**
 - 📫 How to reach me **shauryasingh1402@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neeraj-j-manurkar-64372b212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-j-manurkar-64372b212" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neeraj_jm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeraj_jm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaurya-singh-14s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shaurya Singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shauryasingh1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neeraj_jm" height="30" width="40" /></a>
 </p>
 
